@@ -14,4 +14,4 @@ ksnip
 
 ---themes---
 polybar theme - blocks
-xfce terminal theme - nord
+xfce terminal theme - nord - usr/share/xfce4... paste nord.theme
